@@ -1,0 +1,40 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "E:\\Web Application\\Task\\folder-structure\\server\\logs\\winston\\successes\\.e5e7a5bbbcfc90d743e0dad47cd74f98326d93d7-audit.json",
+    "files": [
+        {
+            "date": 1697980710877,
+            "name": "E:\\Web Application\\Task\\folder-structure\\server\\logs\\winston\\successes\\um-2023-22-10-19-success.log",
+            "hash": "c566057a50b5dfda20b2bfd71fd69101415dadb2019664cd03055e1579900541"
+        },
+        {
+            "date": 1697983379826,
+            "name": "E:\\Web Application\\Task\\folder-structure\\server\\logs\\winston\\successes\\um-2023-22-10-20-success.log",
+            "hash": "923cee7b2b0b59f79f5ad30bee8ac3518a5549bb4239390c2ae0f0e9b3938535"
+        },
+        {
+            "date": 1697986943327,
+            "name": "E:\\Web Application\\Task\\folder-structure\\server\\logs\\winston\\successes\\um-2023-22-10-21-success.log",
+            "hash": "d45099a22414dc3196bbc157d2d804621d1e25b4e7bbdcc6e99c38f997206479"
+        },
+        {
+            "date": 1698401262457,
+            "name": "E:\\Web Application\\Task\\folder-structure\\server\\logs\\winston\\successes\\um-2023-27-10-16-success.log",
+            "hash": "b4e2cb05525bc0ffd4940770becaf1972e4bfaac60b33e72c41a30ae5e093e51"
+        },
+        {
+            "date": 1698408160001,
+            "name": "E:\\Web Application\\Task\\folder-structure\\server\\logs\\winston\\successes\\um-2023-27-10-18-success.log",
+            "hash": "1dc5870a21b29de99dab727fd91554da090e6db95b02b6d552713cf79d335629"
+        },
+        {
+            "date": 1698413634689,
+            "name": "E:\\Web Application\\Task\\folder-structure\\server\\logs\\winston\\successes\\um-2023-27-10-19-success.log",
+            "hash": "b9fbff6bbc347098f6bb3841e69e76f1770ad409a311755f6492c82759509e1f"
+        }
+    ],
+    "hashType": "sha256"
+}

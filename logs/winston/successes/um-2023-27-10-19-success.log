@@ -1,0 +1,12 @@
+{
+  message: '📋 Database connected successfully',
+  level: 'info',
+  label: 'Folder Structure Task',
+  timestamp: '2023-10-27T13:34:02.375Z'
+}
+{
+  message: 'Application listening on port 4000',
+  level: 'info',
+  label: 'Folder Structure Task',
+  timestamp: '2023-10-27T13:34:02.386Z'
+}

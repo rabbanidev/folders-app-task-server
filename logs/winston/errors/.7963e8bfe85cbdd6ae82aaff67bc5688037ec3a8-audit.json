@@ -1,0 +1,40 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "E:\\Web Application\\Task\\folder-structure\\server\\logs\\winston\\errors\\.7963e8bfe85cbdd6ae82aaff67bc5688037ec3a8-audit.json",
+    "files": [
+        {
+            "date": 1697980710888,
+            "name": "E:\\Web Application\\Task\\folder-structure\\server\\logs\\winston\\errors\\um-2023-22-10-19-error.log",
+            "hash": "5d65a107f0b940c869b33226b571f499aef8715092f1048d6b85410540c1c24a"
+        },
+        {
+            "date": 1697983379838,
+            "name": "E:\\Web Application\\Task\\folder-structure\\server\\logs\\winston\\errors\\um-2023-22-10-20-error.log",
+            "hash": "d7c579da64cfedfb549b8634fdb6727d28a67187a8ee248903f3e19074ef69d2"
+        },
+        {
+            "date": 1697986943336,
+            "name": "E:\\Web Application\\Task\\folder-structure\\server\\logs\\winston\\errors\\um-2023-22-10-21-error.log",
+            "hash": "d38c42373f691252ef1cd5abe55fac208b9718046e92a67a5cc999ae3eb20b4a"
+        },
+        {
+            "date": 1698401262473,
+            "name": "E:\\Web Application\\Task\\folder-structure\\server\\logs\\winston\\errors\\um-2023-27-10-16-error.log",
+            "hash": "a070522d8f35ea9d5f6b5302c22fb4550a3fd2241d53098b4fcbb29732b63bc6"
+        },
+        {
+            "date": 1698408160013,
+            "name": "E:\\Web Application\\Task\\folder-structure\\server\\logs\\winston\\errors\\um-2023-27-10-18-error.log",
+            "hash": "3b325d1d1b318b9d2468f7cda1cdb18b49cd3f99ceb5b783aae76ee5ebcc8310"
+        },
+        {
+            "date": 1698413634702,
+            "name": "E:\\Web Application\\Task\\folder-structure\\server\\logs\\winston\\errors\\um-2023-27-10-19-error.log",
+            "hash": "47985cf5fb2fa86bc2d3c9e540c8167cf953a5a7bec7000db067fd3bb15f5564"
+        }
+    ],
+    "hashType": "sha256"
+}
